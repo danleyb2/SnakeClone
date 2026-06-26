@@ -1,2 +1,2 @@
 # Snake Game Clone
-A clone of the famouse snake game
+A clone of the famous snake game
